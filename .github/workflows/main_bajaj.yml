@@ -59,6 +59,3 @@ jobs:
         with:
           app-name: 'bajaj'
           slot-name: 'Production'
-
-
-
