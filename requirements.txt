@@ -2,7 +2,7 @@ fastapi
 uvicorn
 sentence-transformers
 faiss-cpu
-transformers
 PyMuPDF
 requests
 numpy
+
