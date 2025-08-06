@@ -1,9 +1,10 @@
 fastapi
 uvicorn
-sentence-transformers==2.2.2
+sentence-transformers==2.7.0
 faiss-cpu
 PyMuPDF
 requests
 numpy
+
 
 
