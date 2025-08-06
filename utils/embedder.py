@@ -6,7 +6,7 @@ import pickle
 from sentence_transformers import SentenceTransformer
 
 # Use MiniLM model (small + fast)
-model = SentenceTransformer("all-MiniLM-L6-v2")
+model = SentenceTransformer("paraphrase-MiniLM-L3-v2")
 
 INDEX_DIR = "faiss_index"
 INDEX_PATH = os.path.join(INDEX_DIR, "index.faiss")
